@@ -1,1 +1,10 @@
+<<<<<<< Updated upstream
 /.idea
+=======
+/.ideavenv/
+__pycache__/
+.DS_Store
+venv/
+__pycache__/
+.DS_Store
+>>>>>>> Stashed changes
